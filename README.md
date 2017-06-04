@@ -8,13 +8,15 @@ Em seguida é feito a soma de todos os menores caminhos a função retorna um di
 
 Em seguida se imprime na tela os valores ordenados de forma ascendente.
 
-Descompacte o arquivo zipado que contém o .dat usado e o script.
+Baixe o repositório como zip
+
+Descompacte o arquivo zipado nomeado Semantix que contém o .dat usado e o script.
 
 Como executar(Windows):
 
 1-Baixe o python versão 2.7
 
-2-Navegue pelo cmd até sua pasta 
+2-Navegue pelo cmd até o local onde está a pasta descompactada nomeada Semantix
 
 3- No diretório onde estiver alocado o script execute o comando: python closeness.py
 
@@ -24,7 +26,7 @@ Como executar(Linux):
 
 1- Instale o python versão 2.7
 
-2- Navegue até seu diretorio pelo bash
+2- Navegue pelo bash até o diretorio onde está a pasta descomapctada
 
 3- No diretorio onde está alocado o script execute o comando: python closeness.py
 
