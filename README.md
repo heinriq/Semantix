@@ -8,9 +8,22 @@ Em seguida é feito a soma de todos os menores caminhos a função retorna um di
 
 Em seguida se imprime na tela os valores ordenados de forma ascendente.
 
-Como executar:
+Como executar(Windows):
 
 1-Baixe o python versão 2.7
+
 2-Navegue pelo cmd até sua pasta 
+
 3- No diretório onde estiver alocado o script execute o comando: python closeness.py
+
+4- Se o python estiver instaldo corretamente, será impresso na tela os coeficientes de proximidade em ordem ascendente.
+
+Como executar(Linux):
+
+1- Instale o python versão 2.7
+
+2- Navegue até seu diretorio pelo bash
+
+3- No diretorio onde está alocado o script execute o comando: python closeness.py
+
 4- Se o python estiver instaldo corretamente, será impresso na tela os coeficientes de proximidade em ordem ascendente.
