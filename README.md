@@ -12,7 +12,7 @@ Baixe o repositório como zip
 
 Descompacte o arquivo zipado nomeado Semantix que contém o .dat usado e o script.
 
-Como executar(Windows):
+#Como executar(Windows):
 
 1-Baixe o python versão 2.7
 
@@ -22,7 +22,7 @@ Como executar(Windows):
 
 4- Se o python estiver instaldo corretamente, será impresso na tela os coeficientes de proximidade em ordem ascendente.
 
-Como executar(Linux):
+#Como executar(Linux):
 
 1- Instale o python versão 2.7
 
