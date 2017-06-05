@@ -8,8 +8,6 @@ Em seguida a função retorna um dicionário com os vertices e seus respectivos 
 
 O código contém comentários para as funções, este é apenas um resumo para explicação.
 
-Em seguida se imprime na tela os valores ordenados de forma ascendente.
-
 ## Como executar(Windows):
 
 1-Baixe o python versão 2.7
