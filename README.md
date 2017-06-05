@@ -10,7 +10,7 @@ O código contém comentários para as funções, este é apenas um resumo para 
 
 Em seguida se imprime na tela os valores ordenados de forma ascendente.
 
-# Como executar(Windows):
+## Como executar(Windows):
 
 1-Baixe o python versão 2.7
 
@@ -22,7 +22,7 @@ python closeness.py
 ```
 4- Se o python estiver instaldo corretamente, será impresso na tela os coeficientes de proximidade em ordem ascendente.
 
-# Como executar(Linux):
+## Como executar(Linux):
 
 1- Instale o python versão 2.7
 
