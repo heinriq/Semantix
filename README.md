@@ -8,10 +8,6 @@ Em seguida é feito a soma de todos os menores caminhos a função retorna um di
 
 Em seguida se imprime na tela os valores ordenados de forma ascendente.
 
-Baixe o repositório como zip
-
-Descompacte o arquivo zipado nomeado Semantix que contém o .dat usado e o script.
-
 # Como executar(Windows):
 
 1-Baixe o python versão 2.7
