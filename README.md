@@ -1,5 +1,5 @@
 # Semantix
-Desafio de análise de proximidade 
+Análise de proximidade 
 
 No algoritmo em python se percorre o arquivo .dat, nele é criado um dicionário para representar o grafo.
 Na função do coeficiente de proximidade se cria outra lista com todos os vertices para que, em um laço de repetição, por busca exaustiva, se crie o menor caminho do vertice v que está sendo percorrido até cada um dos vertices, isso se repete para todos os vertices.
